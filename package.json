@@ -1,0 +1,10 @@
+{
+  "name": "aternos-bot",
+  "version": "1.0.0",
+  "description": "A simple bot to keep my Aternos server online",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {}
+}
